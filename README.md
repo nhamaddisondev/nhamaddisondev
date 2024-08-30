@@ -5,3 +5,5 @@
 - 📫 How to reach me contact on :
 - Linkedin: https://www.linkedin.com/in/chim-panha-47a299260/
 - ⚡ Fun fact: Sometimes coding makes u depressed but u need to solved it step by step.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhamaddisondev&layout=compact)
