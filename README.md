@@ -7,3 +7,4 @@
 - ⚡ Fun fact: Sometimes coding makes u depressed but u need to solved it step by step.
 
 <img alt="my used languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nhamaddisondev">
+<img src= "https://github-readme-stats.vercel.app/api?username=nhamaddisondev&show_icons=true&theme=radical">
