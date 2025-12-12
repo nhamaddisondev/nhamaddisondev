@@ -5,7 +5,7 @@
  and a bit learning and do research more about flutter development. 
 - 📫 How to reach me contact on : Panha_chim@student.tuxglobalinstitute.edu.kh
 - ⚡ Fun fact: Sometimes coding makes u depressed but u need to solved it step by step.
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhamaddisondev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
