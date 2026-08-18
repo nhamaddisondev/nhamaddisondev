@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nhamaddisondev that just my nickname
 - My real name is Chim Panha
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning web development also i have familiar learning mobile development (flutter)
- and a bit learning and do research more about flutter development. 
 - 📫 How to reach me contact on : Panha_chim@student.tuxglobalinstitute.edu.kh
 - ⚡ Fun fact: Sometimes coding makes u depressed but u need to solved it step by step.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,3 +12,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
