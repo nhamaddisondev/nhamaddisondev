@@ -14,4 +14,4 @@
 ![EXPRESSJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Nha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nhamaddisondev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nhamaddisondev/github-readme-stats#gh-dark-mode-only)
+
